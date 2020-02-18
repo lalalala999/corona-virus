@@ -23,6 +23,7 @@
 
 
 ## 可视化系统
+* https://www.healthmap.org/ncov2019/
 * http://something.drafff.art/nCoV/
 * 小区地图：https://ncov.html5.qq.com/community
 * 发病案例：https://z.cbndata.com/2019-nCoV/
