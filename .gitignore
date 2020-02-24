@@ -8,10 +8,5 @@ release/
 *.bin
 *.class
 *.db
-*.doc
-*.docx
 *.log
-*.ppt
-*.pptx
 *.vs
-*.vscode
